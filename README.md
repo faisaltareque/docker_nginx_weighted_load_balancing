@@ -1,1 +1,7 @@
-# docker_nginx_weighted_load_balancing
+# Docker NGINX weighted load balancing
+
+To Run
+
+```bash
+docker compose up --build
+```
